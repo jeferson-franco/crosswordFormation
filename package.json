@@ -1,0 +1,20 @@
+{
+    "name": "crosswordformation",
+    "version": "1.0.0",
+    "description": "You're a crossword fanatic, and have finally decided to try and create your own. However, you also love symmetry and good design, so you come up with a set of rules they should follow:",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/crosswordFormation.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/crosswordFormation/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/crosswordFormation#readme"
+}
